@@ -1,0 +1,30 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <title>Custom Website</title>
+    <link rel="stylesheet" href="house.css">
+</head>
+<body>
+    <div class="wrapper">
+        <nav class="navbar">
+            <img class="logo" src="logo.JPEG">
+            <ul>
+                <li><a class="active" href="#">About Home</a></li>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Bedroom</a></li>
+                <li><a href="#">Kitchen</a></li>
+                <li><a href="#">Bathroom</a></li>
+            </ul>
+        </nav>
+        <div class="center">
+            <h1>Welcome To  House</h1>
+            <h2>Shubham</h2>
+            <div class="buttons">
+                <pre>                                            <button>Visit</button>     <button class="btn">Free</button></pre>                                                                        
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>
